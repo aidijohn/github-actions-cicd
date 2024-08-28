@@ -76,6 +76,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>aidijohn/springboot-images-test</finalName>
 	</build>
 
 </project>
